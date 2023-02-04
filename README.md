@@ -3,28 +3,20 @@ Metasploit Framework auto installer for termux 2023 - NO errors
 
 ## 💿 Installation 💿
 
-### Manual 
- ```bash 
+```bash 
 pkg install wget git curl
   
 wget https://github.com/Err0r-ICA/MSFi
   
 chmod +x MSFi 
   
- ./MSFi
- ``` 
+./MSFi
+```  
 
-  ### Auto 
- ```bash 
- source <(curl -fsSL https://kutt.it/msf) 
- ``` 
- 
-
- ## Launch metasploit 
- After installation complete execute: 
- ```bash 
- msfconsole 
- ```
+After installation complete execute: 
+```bash 
+msfconsole 
+```
  
 <p align="center">
   <img alt="Err0r-ICA' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Err0r-ICA&show_icons=true&include_all_commits=true&hide_border=true" />
