@@ -8,9 +8,9 @@ pkg install wget git curl
   
 wget https://github.com/Err0r-ICA/MSFi
   
-chmod +x MSFi 
+chmod +x MSFI
   
-./MSFi
+./MSFI
 ```  
 
 After installation complete execute: 
