@@ -26,7 +26,7 @@ msfconsole
 
 ### 👤 My Accounts 👤
 
-* [TELEGRAM](https://t.me/kalit3rmux)
+* [TELEGRAM](https://t.me/termuxhacks)
 
 * [FACEBOOK](https://www.facebook.com/termuxxhacking)
 
